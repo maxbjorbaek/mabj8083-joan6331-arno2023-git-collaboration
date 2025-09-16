@@ -1,3 +1,7 @@
 Användarnamn på github: Maxbjorbaek
 Namn: Max Björbaek Andersson
 Epost: Max.bjorbaek-andersson.8083@student.uu.se
+
+Användarnamn på github: jonasandersen2004-lab
+Namn: Jonas Andersen
+Epost: Jonas.andersen.6331@student.uu.se
