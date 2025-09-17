@@ -5,3 +5,7 @@ Epost: Max.bjorbaek-andersson.8083@student.uu.se
 Användarnamn på github: jonasandersen2004-lab
 Namn: Jonas Andersen
 Epost: Jonas.andersen.6331@student.uu.se
+
+Användarnamn på github: ArvidNB
+Namn: Arvid Norén Brelin
+Epost: arvid.noren-brelin.2023@student.uu.se
